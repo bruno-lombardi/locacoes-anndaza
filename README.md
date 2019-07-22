@@ -4,6 +4,8 @@ Sistema desenvolvido para empresa de locações de andaimes e outros produtos na
 sem conexão ativa com a Internet. No entanto, é preciso também adquirir um servidor HTTP, pois este cliente se comunica com uma
 API para realizar todas as operações.
 
+![#preview](anndaza-locacoes.png)
+
 ## Onde adquirir ou fazer download?
 É possível [fazer o download deste sistema gratuitamente](https://bintray.com/bruno-lombardi/automacao-comercial/AutomacaoComercial#).
 No entanto, notará que o acesso as funcionalidades é restrito, por dois motivos:
